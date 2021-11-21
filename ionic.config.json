@@ -1,0 +1,8 @@
+{
+  "name": "rsport_mopile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "cead53f3"
+}
