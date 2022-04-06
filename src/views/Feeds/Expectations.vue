@@ -1,21 +1,17 @@
 <template>
-
   <ion-page>
     <ion-content :fullscreen="true">
       <div id="container">
-        <strong class="capitalize">lkcxklxkc</strong>
-        <p>Explore <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+        <strong class="capitalize">Feeds </strong>
+        <p><a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">All</a></p>
       </div>
     </ion-content>
-    
   </ion-page>
 </template>
 
 <script>
-import {  IonContent, IonPage } from '@ionic/vue';
-
+import { IonPage, IonContent } from "@ionic/vue"
 export default {
-  name: 'Folder',
   components: {
     IonPage,
     IonContent

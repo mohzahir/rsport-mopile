@@ -1,0 +1,19 @@
+{
+    "menu": {
+        "feeds": "Feeds",
+        "champs": "Championships",
+        "my_champs": "My Championships",
+        "matches": "Matches",
+        "teams": "Teams",
+        "my_teams": "My Teams",
+        "settings": "Settings",
+        "feeds_all" : "All",
+        "feeds_videos" : "Videos",
+        "feeds_posts" : "Posts",
+        "feeds_images" : "Images",
+        "feeds_expectations" : "Expectaions",
+        "ongoing" : "Live Matches",
+        "upcoming" : "Upcoming Matches"
+    },
+    "langText": "Language"
+}

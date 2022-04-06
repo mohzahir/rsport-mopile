@@ -1,0 +1,19 @@
+{
+    "menu": {
+        "feeds": "الاخبار",
+        "champs": "البطولات",
+        "my_champs": "بطولاتي",
+        "matches": "المباريات",
+        "teams": "الانديه",
+        "my_teams": "انديتي",
+        "settings": "الاعدادات",
+        "feeds_all" : "الكل",
+        "feeds_videos" : "الفيديوهات",
+        "feeds_posts" : "المنشورات",
+        "feeds_images" : "الصور",
+        "feeds_expectations" : "التوقعات",
+        "ongoing" : "المباريات الجاريه",
+        "upcoming" : "المباريات القادمه"
+    },
+    "langText": "اللغه"
+}
